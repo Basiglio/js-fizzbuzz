@@ -11,13 +11,14 @@
   text-align: center;
 }
 
-ul {
-  margin-top: 20px;
+input {
+  margin: 50px 0;
 }
 li {
-  width: 250px;
+  width: 200px;
   display: inline-block;
   list-style: none;
-  padding: 50px;
+  margin-top: 25px;
+  padding: 25px;
   border: 1px solid black;
 }
